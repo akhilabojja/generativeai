@@ -18,3 +18,4 @@ A streaming chatbot built using **Streamlit** and **LangChain** with OpenAI’s 
 
 1. **Clone the repository:**
 ```bash
+git clone https://github.com/akhilabojja/genAi.git
