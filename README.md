@@ -19,3 +19,5 @@ A streaming chatbot built using **Streamlit** and **LangChain** with OpenAI’s 
 1. **Clone the repository:**
 ```bash
 git clone https://github.com/akhilabojja/generativeai
+ Run it : python -m streamlit run bot.py
+
